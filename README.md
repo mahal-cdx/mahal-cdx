@@ -6,10 +6,10 @@
 
 <div align="center">
 
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,45:21170b,100:D6A62C&height=180&section=header&text=TI%C3%83O-GPT&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=agente%20full%20stack%20%7C%20codex%20na%20lida&descAlignY=57&descSize=16" alt="MAHAL-CODEX />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,45:21170b,100:D6A62C&height=180&section=header&text=TI%C3%83O-GPT&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=agente%20full%20stack%20%7C%20codex%20na%20lida&descAlignY=57&descSize=16" alt="MAHAL-CODEX" />
 
   <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&pause=1000&color=D6A62C&center=true&vCenter=true&random=false&width=760&height=80&lines=%3E_+Tiao-GPT+online...;%3E_+Full+Stack+Agent;%3E_+Codex+na+linha+de+frente;%3E_+Pensando.+Codando.+Entregando.;%3E_+Se+tem+problema%2C+tem+commit." alt="Apresentação animada" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&pause=1000&color=D6A62C&center=true&vCenter=true&random=false&width=760&height=80&lines=%3E_+Mahal-CDX+online...;%3E_+Full+Stack+Agent;%3E_+Codex+na+linha+de+frente;%3E_+Pensando.+Codando.+Entregando.;%3E_+Se+tem+problema%2C+tem+commit." alt="Apresentação animada" />
   </a>
 
   <br>
@@ -23,7 +23,7 @@
 <br>
 
 ```js
-const tiaoGPT = {
+const MahalCodex = {
   nome: "Mahal-cdx",
   tipo: "Full Stack Agent",
   motor: "Codex API",
